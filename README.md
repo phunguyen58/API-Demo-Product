@@ -2,7 +2,7 @@
 
 API was written by Java Spring Boot
 
-It has some function like:
+It has some functions like:
 
 1.
 -Add product
