@@ -1,6 +1,6 @@
-# API-Demo-Product
-API was written by Java Spring Boot
-It has some function like:
+# API-Demo-Product\n
+API was written by Java Spring Boot\n
+It has some function like:\n
 1.
 -Add product
 -Find product by ID
